@@ -59,4 +59,6 @@ This module consists of 3 programs:
 > 2. Run: _python3 zoomandenhance.py <filename>_ 
 > 3. Follow the Terminal instructions 
 > 4. You can test the program using the provided **ferrari.gif** (try the license plate!)
+  
+  ##### Click anywhere on the image to quit()
 
