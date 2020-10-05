@@ -53,7 +53,7 @@ def enlarge(sourceImg, factor):
 					newImg.setPixel(factor*x+i, factor*y+j, p)
 	return newImg
 
-# flip the image horizontali #
+# flip the image horizontally #
 def horizontalFlip(sourceImg):
 	newImg = cImage.EmptyImage(sourceImg.getWidth(), sourceImg.getHeight())
 	for x in range(sourceImg.getWidth()):
